@@ -1,6 +1,6 @@
 # protractor
 Adds an interactive angle- and distance-measurement tool to the
-current axes. Currently build on Image Processing Toolbox
+current axes. Built on Image Processing Toolbox
 functionality, and works well on image-containing axes. But it
 also works on non-image axes.
 
